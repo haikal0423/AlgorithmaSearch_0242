@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34616.47
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ASDSearch", "ASDSearch\ASDSearch.vcxproj", "{EFFD48AE-C06E-4D44-9DA3-C5AF1970F339}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EFFD48AE-C06E-4D44-9DA3-C5AF1970F339}.Debug|x64.ActiveCfg = Debug|x64
+		{EFFD48AE-C06E-4D44-9DA3-C5AF1970F339}.Debug|x64.Build.0 = Debug|x64
+		{EFFD48AE-C06E-4D44-9DA3-C5AF1970F339}.Debug|x86.ActiveCfg = Debug|Win32
+		{EFFD48AE-C06E-4D44-9DA3-C5AF1970F339}.Debug|x86.Build.0 = Debug|Win32
+		{EFFD48AE-C06E-4D44-9DA3-C5AF1970F339}.Release|x64.ActiveCfg = Release|x64
+		{EFFD48AE-C06E-4D44-9DA3-C5AF1970F339}.Release|x64.Build.0 = Release|x64
+		{EFFD48AE-C06E-4D44-9DA3-C5AF1970F339}.Release|x86.ActiveCfg = Release|Win32
+		{EFFD48AE-C06E-4D44-9DA3-C5AF1970F339}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FC30730E-5AF0-4BA1-834C-BF0BA17CE97E}
+	EndGlobalSection
+EndGlobal
